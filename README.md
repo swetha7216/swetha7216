@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Sweetha Angam
 
-<!--
-**swetha7216/swetha7216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech AIML Student  
+💻 Passionate about Artificial Intelligence & Machine Learning  
+🚀 Interested in building real-world AI projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python  
+- Java (Basics)  
+- SQL  
+- HTML, CSS, JavaScript  
+- Basics of Machine Learning  
+- Git & GitHub  
+
+---
+
+## 🚀 Projects
+🔹 AI Chatbot  
+- Built an AI-based chatbot to answer college-related queries  
+- Used NLP for intent classification  
+
+🔹 Movie Search App 🎬  
+- Developed a web app to search movies using API  
+- Displays movie details like title, rating, and poster  
+- Built using HTML, CSS, JavaScript  
+
+🔹 RAG Pipeline  
+- Implemented a basic Retrieval-Augmented Generation pipeline  
+
+---
+
+## 📚 Currently Learning
+- Data Structures & Algorithms  
+- Machine Learning  
+- Python Advanced Concepts  
+- Java & SQL  
+
+---
+
+## 📫 Contact Me
+📧 sweethaangam@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/swetha-angam-a92a330a  
+
+---
+
+⭐ Always eager to learn and grow!
